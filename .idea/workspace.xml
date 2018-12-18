@@ -24,8 +24,8 @@
       <file leaf-file-name="renewables_world.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/renewables_world.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.7520891">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.3054782">
+              <caret line="183" column="38" selection-start-line="183" selection-start-column="38" selection-end-line="183" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -38,6 +38,7 @@
       <list>
         <option value="$PROJECT_DIR$/js/countryToIso2.js" />
         <option value="$PROJECT_DIR$/js/convertIso2ToIso3.js" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/renewables_world.html" />
       </list>
     </option>
@@ -121,6 +122,11 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v9.8.0/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -232,10 +238,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21077067">
+          <caret line="183" column="38" selection-start-line="183" selection-start-column="32" selection-end-line="183" selection-end-column="38" />
+          <folding>
+            <marker date="1545150194000" expanded="true" signature="21:7221" placeholder="..." />
+            <marker date="1545150194000" expanded="true" signature="28:222" placeholder="..." />
+            <marker date="1545150194000" expanded="true" signature="40:214" placeholder="..." />
+            <marker date="1545150194000" expanded="true" signature="229:7213" placeholder="..." />
+            <marker date="1545150194000" expanded="false" signature="341:414" placeholder="..." />
+            <marker date="1545150194000" expanded="true" signature="681:7035" placeholder="..." />
+            <marker date="1545150194000" expanded="true" signature="732:4693" placeholder="[...]" />
+            <marker date="1545150194000" expanded="true" signature="4741:4829" placeholder="{...}" />
+            <marker date="1545150194000" expanded="true" signature="4837:5003" placeholder="//..." />
+            <marker date="1545150194000" expanded="true" signature="5031:5211" placeholder="//..." />
+            <marker date="1545150194000" expanded="true" signature="5393:5463" placeholder="//..." />
+            <marker date="1545150194000" expanded="true" signature="5679:5873" placeholder="{...}" />
+            <marker date="1545150194000" expanded="true" signature="5681:5725" placeholder="//..." />
+            <marker date="1545150194000" expanded="true" signature="5911:7024" placeholder="{&quot;projection&quot;: 'mercator'...}" />
+            <marker date="1545150194000" expanded="true" signature="6001:6094" placeholder="//..." />
+            <marker date="1545150194000" expanded="true" signature="6186:7018" placeholder="{&quot;borderColor&quot;: '#DEDEDE'...}" />
+            <marker date="1545150194000" expanded="true" signature="6356:6425" placeholder="{...}" />
+            <marker date="1545150194000" expanded="true" signature="6604:7008" placeholder="{...}" />
+            <marker date="1545150194000" expanded="true" signature="6778:6984" placeholder="[...]" />
+            <marker date="1545150194000" expanded="true" signature="7041:7204" placeholder="..." />
+            <marker date="1545150194000" expanded="true" signature="7153:7197" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/renewables_world.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7520891">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.3054782">
+          <caret line="183" column="38" selection-start-line="183" selection-start-column="38" selection-end-line="183" selection-end-column="38" />
           <folding />
         </state>
       </provider>
